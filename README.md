@@ -10,7 +10,7 @@ Sem conta, sem senha, sem login. A única informação que circula é um apelido
 
 ## Instalação
 
-1. Baixe o `KioBotEX-windows.zip` na página de [Releases](../../releases) deste repositório e extraia.
+1. Baixe o `KioBotEX-windows.zip` nesse repositório e extraia.
 2. Abra o `KioBotEX.exe`.
 
 O Windows costuma mostrar o alerta "aplicativo desconhecido" em programas sem assinatura digital (clique em "Mais informações" e depois em "Executar assim mesmo"), e alguns antivírus dão falso positivo em executáveis feitos com PyInstaller. O código está todo aqui para ser conferido, e o executável é gerado automaticamente pelo GitHub a partir dele (veja `.github/workflows/build.yml`).
